@@ -1,5 +1,3 @@
-# hello-world
-just a repository
 Hi humans!
 I am fascinated by programming and software developing, as, for me, it is a wonderland portrayed in Harry Potter. People would consider coding black-white command lines a dull routine, but it is not the essence of human machine interaction. Programming and coding are my magic sticks, and programming languages my incantation, through which I can build modules and establish various packages. In both objective and virtual reality, target-oriented programming strategy renders me as a magician, setting up multiple roles on the stage, Professor Dumbledore, Hermione and Lord Voldemort, etc. My duty is to invigorate these magic characters just as J.K. Rowling did. 
 
